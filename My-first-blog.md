@@ -5,4 +5,4 @@ tags:
 ---
 
 ## This Blog Send Form My Mac
-** very diffcult
+** very difficult
