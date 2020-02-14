@@ -7,6 +7,7 @@ tags:
 ## This Blog Send Form My Mac
 ** very difficult
 ** very very very hard
+** 不成功直播
 ```
 nohup python -u /home/hexo/deploy.py > /home/hexo/webhooks.log 2>&1 &
 ```
