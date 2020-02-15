@@ -8,6 +8,7 @@ tags:
 ** very difficult
 ** very very very hard
 ** 不成功直播
+** again
 ```
 nohup python -u /home/hexo/deploy.py > /home/hexo/webhooks.log 2>&1 &
 ```
