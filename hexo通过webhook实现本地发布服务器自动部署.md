@@ -15,7 +15,7 @@ hexo g
 hexo d
 ```
 
-
+<!-- more -->
 
 # 2. 思路
 
